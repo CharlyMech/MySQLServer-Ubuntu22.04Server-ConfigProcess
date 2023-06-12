@@ -27,7 +27,7 @@ This configuration is recommended even though the network allows to use the _Bri
 
 The process is pretty straight forward, just need to configure correctly the network interfaces' IP. Here is the process in screenshots.
 
--  Set the prefferred language:
+-  Set the preferred language:
 
 ![Host Network Manager](Images/Installation%200.png)
 
