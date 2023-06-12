@@ -23,7 +23,7 @@ To configure the secondary network interface is necessary to configure it. To do
 
 This configuration is recommended even though the network allows to use the _Bridged Adapter_, because the _Host-only Adapter_ will be configured in the system with a static IP so it will not care about if the network changes. For the connectivity interface could be set if wanted to.
 
-## Installation
+## Server Installation
 
 The process is pretty straight forward, just need to configure correctly the network interfaces' IP. Here is the process in screenshots.
 
