@@ -29,41 +29,41 @@ The process is pretty straight forward, just need to configure correctly the net
 
 -  Set the preferred language:
 
-![Host Network Manager](Images/Installation%200.png)
+![Preferred language](Images/Installation%200.png)
 
 -  Skip the installer update (may not appear if the `.iso` file is the latest):
 
-![Host Network Manager](Images/Installation%201.png)
+![Skip installer update](Images/Installation%201.png)
 
 -  Set the preferred keyboard layout:
 
-![Host Network Manager](Images/Installation%202.png)
+![HPreferred keyboard layot](Images/Installation%202.png)
 
 -  Set installation type (just leave it as default):
 
-![Host Network Manager](Images/Installation%203.png)
+![Installation type](Images/Installation%203.png)
 
 -  Network configuration:
 
-![Host Network Manager](Images/Installation%204.png)
+![Network configuration](Images/Installation%204.png)
 
 As you can see, set a static IP for the _Host-only Adapter_ (will be the one without IP, the _NAT_/_Bridged Adapter_ will have an IP assigned by DHCP).
 
-![Host Network Manager](Images/Installation%205.png)
+![Set Static IP](Images/Installation%205.png)
 
 -  Configure disk encryption (I just leave this as default always)
 
-![Host Network Manager](Images/Installation%206%20skip%20proxy%20and%20mirror.png)
+![Disk encryption](Images/Installation%206%20skip%20proxy%20and%20mirror.png)
 
 (I skipped the proxy and mirrors steps, just leave them as they are)
 
 -  Storage configuration (configuration resume)
 
-![Host Network Manager](Images/Installation%207.png)
+![Storage configuration](Images/Installation%207.png)
 
 -  Set system name, username and password
 
-![Host Network Manager](Images/Installation%208%20skip%20pro%20ssh%20and%20packages.png)
+![System Information, host name, user name, password](Images/Installation%208%20skip%20pro%20ssh%20and%20packages.png)
 
 (Again I skipped some steps before installation is executed, if you want to install OpenSSH server or other packages in the installation process you'll need to do some extra config here).
 
